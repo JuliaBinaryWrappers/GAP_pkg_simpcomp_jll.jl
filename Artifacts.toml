@@ -1,69 +1,86 @@
 [[GAP_pkg_simpcomp]]
 arch = "aarch64"
-git-tree-sha1 = "e565bf6471d1c9106f1d5b6c8569de9a749d38b4"
+git-tree-sha1 = "e8abd5154930228ed2874f4bf23f58a0b3e7e464"
 os = "macos"
 
     [[GAP_pkg_simpcomp.download]]
-    sha256 = "f3bac6e069eb43ddd33d15711c4b543c58b08ad9db36614dc65c28c07997449c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.aarch64-apple-darwin.tar.gz"
+    sha256 = "4f58b3dccb23adc1ecab47655a5b24e0260901388b14678a875ca9022b0895b3"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_simpcomp]]
 arch = "aarch64"
-git-tree-sha1 = "54d6b704adef40bc1a20cc61b298b71445820303"
+git-tree-sha1 = "31f8329bb148950a15b3b458d32dd5e53101b3f6"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_simpcomp.download]]
-    sha256 = "aad7d0e5afcbbf51abbb5f8b16f637f3dacc2c7eaad319d1fdcc2ffa50365fdb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.aarch64-linux-gnu.tar.gz"
+    sha256 = "8433e19c882a091ad62491410ef024e348b6519c9b4460226bd3f1b26f3d2450"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_simpcomp]]
 arch = "aarch64"
-git-tree-sha1 = "7ad030ada5abaf23ba51add260ffee5871982688"
+git-tree-sha1 = "6d4ae806a3a1c5a85b912aa731e778f52b77c131"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_simpcomp.download]]
-    sha256 = "5e3f6388813bc90ba8e9130f8be59b98de450a2b8a4326f36158b0cd7bef4788"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.aarch64-linux-musl.tar.gz"
+    sha256 = "e420ea1a8f796f6c1cf26066e69f6e3fa62858f4508083c63c6b4bf7c92c5f57"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_simpcomp]]
-arch = "powerpc64le"
-git-tree-sha1 = "4090fde7cbba890b7d84b5c29ded2f721be908a6"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_simpcomp.download]]
-    sha256 = "298c7e6cb021b4a36991c3cb6b6cded35c18cb18cbbc2b7bdbb174e6c21e17c2"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.powerpc64le-linux-gnu.tar.gz"
-[[GAP_pkg_simpcomp]]
-arch = "x86_64"
-git-tree-sha1 = "8be6bb722eac398ee927ab374306bbae01ca8224"
-os = "macos"
-
-    [[GAP_pkg_simpcomp.download]]
-    sha256 = "f2c29592626cf2ea31b398d211dcae78f419c229e648e3239939fa8be327a48d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.x86_64-apple-darwin.tar.gz"
-[[GAP_pkg_simpcomp]]
-arch = "x86_64"
-git-tree-sha1 = "bbc4f9e54de33c46ed31015259b46ac4c590b2c2"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_simpcomp.download]]
-    sha256 = "4e3d2ed10345f8a42fc81361ffaf7463cf4dbacac2495bb244116d68f0031bc4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.x86_64-linux-gnu.tar.gz"
-[[GAP_pkg_simpcomp]]
-arch = "x86_64"
-git-tree-sha1 = "60d2de6bcdfad82f93c724680b7559703fb89d58"
-libc = "musl"
-os = "linux"
-
-    [[GAP_pkg_simpcomp.download]]
-    sha256 = "f0e96c2d7601766b0813fd00fea69fc49b742a6cfe4db46f1fd9d60cbd785ea9"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.x86_64-linux-musl.tar.gz"
-[[GAP_pkg_simpcomp]]
-arch = "x86_64"
-git-tree-sha1 = "12dd1e003dd48321986b61d42acf8f8a4811b5e8"
+arch = "aarch64"
+git-tree-sha1 = "bdf8baaefb46a70d934585e557595eed439b36e9"
 os = "freebsd"
 
     [[GAP_pkg_simpcomp.download]]
-    sha256 = "29ee908fddb7c76888b28b8399a01fd34890e3360e70f4d588111c7d24dbbb7b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1400+0/GAP_pkg_simpcomp.v200.100.1400.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "141f791dc92ccc40811e4e3a0112ba4d708592314c31cdd03268ad419a171cce"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "powerpc64le"
+git-tree-sha1 = "07eb771f753e3bc53cd16064fb14e9e68d4858da"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "6a3b4dcbc49e19cf630bef61872b4fb1bd5432d06ce873ce076f358a5d3ed640"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "riscv64"
+git-tree-sha1 = "028b736929eeb1fba37694f901325b9d814777d0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "3176f43b508512ea95c42ac0fe311e14a7f6ca9e6adf0a9722b33bbc033df7ed"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+git-tree-sha1 = "1dd083ce6c585f8c024eae9bdcc50ce11b4a8ae9"
+os = "macos"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "7dd6afc16b971f8f26dbb398bf9e9fe9ed676af4f2c35441c3614150940fa276"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+git-tree-sha1 = "be9639a4d42c3e24544a0a0e6971d1d221ec5cee"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "ca2d228413e286b99628343941cce761507054013b8ce76ac8606f39da49fd2a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+git-tree-sha1 = "c8048d97f819ed779ac06d9f859b80a14e3acfef"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "d03362244512be921774696902af213ae79aab7f551f585c4373aa54483cef2d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+git-tree-sha1 = "69283da5ba6d94f1b89faa43d87274fa6a730164"
+os = "freebsd"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "ae2dc80781b43f1963d1927d289f1c5ab58246db5026d390ba76f1ce22e237c1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v200.100.1401+0/GAP_pkg_simpcomp.v200.100.1401.x86_64-unknown-freebsd.tar.gz"
